@@ -1,4 +1,5 @@
-🚀
+# swiggy-clone-react
+
 # Parcel
 
 Dev Build
